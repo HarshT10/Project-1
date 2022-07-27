@@ -2,6 +2,14 @@
 
 - This project is a landing page which heavily relies on CSS Positions. 
 
+[Github](https://github.com/HarshT10/Project-1)
+
+![Badge](https://img.shields.io/badge/GitHub-Link-green)
+
+[Netlify](https://street-style-landing-page-harshthakkar1011.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
+
 ---
 
 ### **What did I learn from this Project?**
