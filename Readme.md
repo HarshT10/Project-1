@@ -2,7 +2,7 @@
 
 - This project is a landing page which heavily relies on CSS Positions. 
 
-[Netlify](https://street-style-landing-page-harshthakkar1011.netlify.app/)
+[Netlify](https://street-style-landing-page-harshcodes.netlify.app)
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
